@@ -1,0 +1,7 @@
+{
+    "code": 500,
+    "contents" : {
+        "errorcode" : "TESTERR500-0010",
+        "message" : "500 TestError by Mockdata!"
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "http-jsonmock-server",
+  "version": "1.0.0",
+  "description": "A program that runs using node.js and acts as a web server for a simple Web API response check that responds to a json file stored as a test file.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/"
+  },
+  "author": "amaji@nodachisoft.com",
+  "license": "GPLv3"
+}
